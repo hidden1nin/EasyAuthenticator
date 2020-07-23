@@ -1,0 +1,6 @@
+name: Runicauthenticator
+version: ${project.version}
+main: com.runicrealms.runicauthenticator.runicauthenticator.RunicAuthenticator
+api-version: 1.15
+authors: [hidden1nin]
+description: 2fa for the runic realms team
